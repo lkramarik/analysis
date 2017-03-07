@@ -1,3 +1,4 @@
+//for any backgroung estimations, currently mix = ls
 #include <ctime>
 
 void d0_meson_mix_pt(TString filename = "results_all.root", float inc_stat = 1, double Ntrig = 41E6) {
